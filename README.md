@@ -45,3 +45,5 @@ PER from : [Howuhh/prioritized_experience_replay](https://github.com/Howuhh/prio
 `hindsight_dqn_train.py` : run this to train Hindsight terminal guidance law
 
 `hindsight_dqn_test.py` : run this to test Hindsight terminal guidance law
+
+`hindsight_per_train.py` : can only get bad results, perhaps the priorities of hindsight transition should not be calculated using TD error
