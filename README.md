@@ -2,9 +2,9 @@
 
 ## Prioritized Experience Replay (PER)
 
-`airdensity.py` : about aerodynamics, from DOI:10.27061/d.cnki.ghgdu.2021.003352
+`airdensity.py` : aerodynamics, from DOI:10.27061/d.cnki.ghgdu.2021.003352
 
-`table.py` : about aerodynamics, from DOI:10.27061/d.cnki.ghgdu.2021.003352
+`table.py` : aerodynamics, from DOI:10.27061/d.cnki.ghgdu.2021.003352
 
 `testEnv.py` : environment, from DOI:10.27061/d.cnki.ghgdu.2021.003352
 
@@ -34,13 +34,13 @@ PER from : [Howuhh/prioritized_experience_replay](https://github.com/Howuhh/prio
 
 ## Hindsight Experience Replay (HER)
 
-`airdensity.py` : about aerodynamics, from DOI:10.27061/d.cnki.ghgdu.2021.003352
+`airdensity.py` : aerodynamics, from DOI:10.27061/d.cnki.ghgdu.2021.003352
 
-`table.py` : about aerodynamics, from DOI:10.27061/d.cnki.ghgdu.2021.003352
+`table.py` : aerodynamics, from DOI:10.27061/d.cnki.ghgdu.2021.003352
 
 `testEnv.py` : environment, from DOI:10.27061/d.cnki.ghgdu.2021.003352
 
-`hindsightEnv.py` : to “hindsight” calculate state using the trajectory of the missile and the target
+`hindsightEnv.py` : to “hindsightly” calculate state using the trajectory of the missile and the target
 
 `hindsight_dqn_train.py` : run this to train Hindsight terminal guidance law
 
